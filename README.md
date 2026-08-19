@@ -2,14 +2,14 @@
 
 A Flutter app that allows patients to browse doctors, view profiles, and book appointments easily. It focuses on clean architecture and maintainable code.
 
-## ✅ Clean Code Principles
+## Clean Code Principles
 
 - Clear separation of layers
 - Follows SOLID principles
 - Modular, testable, and scalable
 - Organized and reusable widgets/components
 
-## 🚀 Flutter Flavors for CI/CD
+## Flutter Flavors for CI/CD
 
 The app uses **Flutter Flavors** to manage multiple environments:
 
@@ -18,7 +18,7 @@ The app uses **Flutter Flavors** to manage multiple environments:
 
 This setup makes CI/CD smoother and helps with easier environment configuration (API base URLs, app names/icons, etc.).
 
-## 🧠 State Management
+## State Management
 
 This app uses the **BLoC (Business Logic Component)** pattern for state management.
 
